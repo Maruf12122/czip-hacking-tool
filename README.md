@@ -35,7 +35,7 @@ pip install pyzipper pyfiglet
 
 2. এখন GitHub থেকে প্রোজেক্ট ক্লোন করো:
    ```bash
-   git clone https://github.com/username/czip.git
+   git clone https://github.com/Maruf12122/czip-hacking-tool.git
    ```
 
 3. ডিরেক্টরিতে প্রবেশ করো:
